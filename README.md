@@ -2,7 +2,7 @@
 
 This project is a simple Pong game created with the SFML library in C++. The game features single and multiplayer modes, with an AI-controlled paddle in single-player mode.
 
-![Demo](./PongGame/assets/demo.gif)
+![Demo](./demo/demo.gif)
 
 # Dependencies
 
